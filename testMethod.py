@@ -19,3 +19,4 @@ print(diffMat**2)
 print((diffMat**2).sum(axis=1))
 distance = ((diffMat ** 2).sum(axis=1))**0.5
 print(distance)
+print('test github upload...')
